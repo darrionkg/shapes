@@ -1,0 +1,9 @@
+/home/darrion/Dev/csharp/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.deps.json
+/home/darrion/Dev/csharp/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.dll
+/home/darrion/Dev/csharp/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.pdb
+/home/darrion/Dev/csharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csprojAssemblyReference.cache
+/home/darrion/Dev/csharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csproj.CoreCompileInputs.cache
+/home/darrion/Dev/csharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfoInputs.cache
+/home/darrion/Dev/csharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfo.cs
+/home/darrion/Dev/csharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.dll
+/home/darrion/Dev/csharp/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.pdb
